@@ -1,0 +1,10 @@
+2018/06/21
+Specification (Draft)
+An IOT device with N sensors that are capable to transmit their data to a cloud service which will register the transaction on a blockchain. Each device has a unique universal ID.
+The block chain will record transactions coming from devices.
+
+Plan/AR
+1. [MM] Evaluate existing IOT HW devices with sensors and WiFi or 4G (5G) data capability. Recommend one.
+2. [YS] Evaluate cloud services that can process IOT data. Recommend one.
+3. [KD] Evaluate blockchain framework that can record transactions. Recommend one.
+
